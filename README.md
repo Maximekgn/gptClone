@@ -25,7 +25,7 @@ Access the API here [here](https://github.com/Fadilix/gemini-integration-api.git
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Fadilix/chat-gpt-clone.git
+    git clone https://github.com/maximekgn/chat-gpt-clone.git
     cd chat-gpt-clone
     ```
 
